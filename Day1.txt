@@ -1,0 +1,18 @@
+#Day 1
+Today I learn git and github
+how to intialize like
+## git init
+## add file (eg: first file.txt)
+## git add file name
+## git commit -m "comment"
+## git push -u oririn main
+
+#How to create branch 
+## git clone "github.com/username/repository"
+## cd repository
+## git checkout -b feature-1
+## echo "New feature coming" >> feature.txt
+## git add feature.txt
+## git commit -m "Add feature.txt for testing"
+## git push -u origin feature-1
+
